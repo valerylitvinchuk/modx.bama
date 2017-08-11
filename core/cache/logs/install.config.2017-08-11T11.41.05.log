@@ -1,0 +1,1 @@
+[2017-08-11 11:41:05] (ERROR in xPDOConnection::connect @ C:\OSPanel\domains\modx.bama\core\xpdo\xpdo.class.php : 3116) SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
